@@ -1,3 +1,3 @@
 function home() {
-    return <h1>botafogo</h1>
+    return <h1><strong>Thais eu te AMO</strong></h1>
 }  
