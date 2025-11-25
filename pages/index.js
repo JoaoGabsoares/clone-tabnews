@@ -1,5 +1,7 @@
 export default function home() {
     return (
-        <h1><strong>Thais eu te AMO</strong></h1>
+        <h1>
+            Thais eu te <strong>AMO</strong>
+        </h1>
     );
 }  
