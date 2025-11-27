@@ -2,10 +2,10 @@ export default function home() {
     return (
         <>
             <h1>
-                Thais eu te <strong>AMO</strong>
+                A BELA DECLARAÇÃO DE AMOR
             </h1>
             <p>
-                mais um teste
+                Thais eu te <strong>amor</strong> muito
             </p>
         </>
     );
